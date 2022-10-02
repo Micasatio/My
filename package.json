@@ -27,7 +27,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:BrunoSobrino/baileys",
+        "@adiwajshing/baileys": "^4.4.0",
         "@bochilteam/scraper": "^3.0.0",
         "acrcloud": "^1.4.0",
         "awesome-phonenumber": "^2.68.0",
@@ -41,9 +41,7 @@
         "fg-ig": "^0.0.1",
         "file-type": "^17.1.1",
         "fluent-ffmpeg": "^2.1.2",
-        "fs": "^0.0.1-security",
         "formdata-node": "^4.3.2",
-        "glob-fs": "^0.1.7",
         "human-readable": "^0.2.1",
         "hxz-api": "^1.0.1",
         "jsdom": "^19.0.0",
