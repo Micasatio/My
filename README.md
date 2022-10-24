@@ -15,7 +15,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
+git clone https://github.com/Micasatio/My.git && cd My
 ```
 
 ```bash
@@ -42,7 +42,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd My
 > npm start
 ```
 
@@ -51,7 +51,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd My
 > rm -rf MysticSession
 > npm start
 ```
@@ -59,7 +59,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `COLABORADORES DEL BOT` 
 <a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="100" height="100" alt="unptoadrih15"/></a>
 <a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="100" height="100" alt="ALBERTO9883"/></a>
-<a href="https://github.com/ferhacks"><img src="https://github.com/ferhacks.png" width="100" height="100" alt="ferhacks"/></a>
+<a href="https://github.com/Agromos0"><img src="https://github.com/Agromos0.png" width="100" height="100" alt="ferhacks"/></a>
 <a href="https://github.com/Gatito-kw"><img src="https://github.com/Gatito-kw.png" width="100" height="100" alt="Gatito-kw"/></a>
 <a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
 <a href="https://github.com/NeKosmic"><img src="https://github.com/NeKosmic.png" width="100" height="100" alt="NeKosmic"/></a>
