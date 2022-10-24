@@ -55,4 +55,49 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf MysticSession
 > npm start
 ```
-
+A veces cuando un hombre
+Se hace fuerte un secreto
+Necesita llorar
+De vez en cuando
+Necesita que siga lloviendo
+Un aguacero de mayo más
+Que pueda cubrir mis lágrimas
+Yo
+Necesito llorar por amor
+Necesito pintar mi dolor
+Si salgo a la calle
+Con lluvia que cae
+Tengo partido el corazón
+Y la lluvia no cae
+Quisiera llorar lloviendo
+Para cubrir mi cara y mis lagrimas con el agua
+Quisiera llorar lloviendo
+Los hombres también lloran, déjame llorar
+Quisiera llorar lloviendo
+Para cubrir mi cara y mis lágrimas con el agua
+Quisiera llorar lloviendo
+Para cubrir mi cara y que no me vean llorar
+(Que no me vean llorar)
+Pa la bachatera
+Bachatera tera tera
+Hoy me duele pensar
+El amor se escondió de mi
+Y si es que voy a llorar
+Pues que siga lloviendo
+Un aguacero de mayo más
+Que pueda cubrir mis lágrimas
+Yo
+Necesito llorar por amor
+Necesito pintar mi dolor
+Si salgo a la calle
+Con lluvia que cae
+Tengo partido el corazón
+Y la lluvia no cae
+Quisiera llorar lloviendo
+Para cubrir mi cara y mis lagrimas con el agua
+Quisiera llorar lloviendo
+Los hombres también lloran, déjame llorar
+Quisiera llorar lloviendo
+Para cubrir mi cara y mis lágrimas con el agua
+Quisiera llorar lloviendo
+Para cubrir mi cara y que no me vean llorar
