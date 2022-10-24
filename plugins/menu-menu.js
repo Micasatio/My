@@ -18,7 +18,7 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 *ミ💖 𝙷𝙾𝙻𝙰 ✨${taguser}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 💖彡*
 
-*📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
+*📅 HOY ES: ${week}, ${date}*
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
 *📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
 ${readMore}
@@ -255,39 +255,7 @@ ${readMore}
 ° ඬ⃟👾 _${usedPrefix}sakura_
 ° ඬ⃟👾 _${usedPrefix}cosplay_
 
-*<ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 +𝟙𝟠/>*
 
-° ඬ⃟🔞 _${usedPrefix}pack_
-° ඬ⃟🔞 _${usedPrefix}pack2_
-° ඬ⃟🔞 _${usedPrefix}pack3_
-° ඬ⃟🔞 _${usedPrefix}videoxxx_
-° ඬ⃟🔞 _${usedPrefix}tiktokxxx_
-° ඬ⃟🔞 _${usedPrefix}tetas_
-° ඬ⃟🔞 _${usedPrefix}booty_
-° ඬ⃟🔞 _${usedPrefix}ecchi_
-° ඬ⃟🔞 _${usedPrefix}furro_
-° ඬ⃟🔞 _${usedPrefix}imagenlesbians_
-° ඬ⃟🔞 _${usedPrefix}panties_
-° ඬ⃟🔞 _${usedPrefix}pene_
-° ඬ⃟🔞 _${usedPrefix}porno_
-° ඬ⃟🔞 _${usedPrefix}porno2_
-° ඬ⃟🔞 _${usedPrefix}randomxxx_
-° ඬ⃟🔞 _${usedPrefix}pechos_
-° ඬ⃟🔞 _${usedPrefix}yaoi_
-° ඬ⃟🔞 _${usedPrefix}yaoi2_
-° ඬ⃟🔞 _${usedPrefix}yuri_
-° ඬ⃟🔞 _${usedPrefix}yuri2_
-° ඬ⃟🔞 _${usedPrefix}trapito_
-° ඬ⃟🔞 _${usedPrefix}hentai_
-° ඬ⃟🔞 _${usedPrefix}nsfwloli_
-° ඬ⃟🔞 _${usedPrefix}nsfworgy_
-° ඬ⃟🔞 _${usedPrefix}nsfwfoot_
-° ඬ⃟🔞 _${usedPrefix}nsfwass_
-° ඬ⃟🔞 _${usedPrefix}nsfwbdsm_
-° ඬ⃟🔞 _${usedPrefix}nsfwcum_
-° ඬ⃟🔞 _${usedPrefix}nsfwero_
-° ඬ⃟🔞 _${usedPrefix}nsfwfemdom_
-° ඬ⃟🔞 _${usedPrefix}nsfwglass_
 
 *<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝔻𝔼 𝔸𝕌𝔻𝕀𝕆𝕊/>*
 *- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
@@ -492,7 +460,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟☠ _${usedPrefix}crash7_
 `.trim()
 let buttons = [
-{ buttonId: '#donar', buttonText: { displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮' }, type: 1 },
+{ buttonId: 'Mierda de Bot', buttonText: { displayText: '🤮Que asco de bot🤮 ' }, type: 1 },
 { buttonId: '#owner', buttonText: { displayText: '🌹 𝙾𝚆𝙽𝙴𝚁 🌹' }, type: 1 }]
 //{ buttonId: '#infobot', buttonText: { displayText: '🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾' }, type: 1 }]
 let buttonMessage = {
@@ -511,7 +479,7 @@ mediaUrl: null,
 title: '👑 𝐓𝐇𝐄 𝐌𝐘𝐒𝐓𝐈𝐂 - 𝐁𝐎𝐓 👑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.paypal.me/TheShadowBrokers133`
+sourceUrl: `https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
